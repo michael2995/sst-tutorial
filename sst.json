@@ -1,0 +1,7 @@
+{
+  "name": "sst-tutorial",
+  "stage": "dev",
+  "region": "ap-northeast-2",
+  "lint": true,
+  "typeCheck": true
+}
